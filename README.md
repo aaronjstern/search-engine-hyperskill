@@ -12,4 +12,4 @@ Three different search strategies are provided:
 - All: returns lines where all of the query terms are present
 - None: returns lines where none of the query terms are present
 
-All strategies use an constructed inverted index for efficient searching. 
+All strategies use an inverted index for efficient searching. 
